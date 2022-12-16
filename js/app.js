@@ -20,7 +20,7 @@ const showCats = () => {
                   <img class="card--avatar" src=${image} />
                   <h1 class="card--title">${name}</h1>
                   <h2 class="card--caption">${caption}</h2>
-                  <a class="card--link" href="#">Taste</a>
+                  <a class="card--link" href="#">More</a>
                 </div>
                 `)
     )
