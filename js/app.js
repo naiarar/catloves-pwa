@@ -1,6 +1,6 @@
 const container = document.querySelector(".container")
 const cats = [
-    { name: "Batman", image: "img/gato-batman.jpg" },
+    { name: "Batman", image: "img/gato-batmann.jpg" },
     { name: "Coelho", image: "img/gato-coelho.jpg" },
     { name: "Dorminhoco", image: "img/gato-dorminhoco.jpg" },
     { name: "Estiloso", image: "img/gato-estiloso.jpg" },

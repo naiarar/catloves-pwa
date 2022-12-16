@@ -5,7 +5,7 @@ const assets = [
     "css/style.css",
     "js/app.js",
     "/img/gato-batmann.jpg",
-    "/img/gato-coleho.jpg",
+    "/img/gato-coelho.jpg",
     "/img/gato-dorminhoco.jpg",
     "/img/gato-estiloso.jpg",
     "/img/gato-leao.jpg",
