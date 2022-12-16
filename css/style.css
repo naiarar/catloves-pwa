@@ -34,6 +34,7 @@ a {
 ul {
     list-style: none;
     display: flex;
+    margin-bottom: 0.5rem;
 }
 
 li {
@@ -54,6 +55,7 @@ h1 {
     align-items: center;
     margin: auto;
     padding: 1rem 0;
+    justify-content: center;
 }
 
 .card {
@@ -101,4 +103,5 @@ h1 {
     padding: 0.3rem 1rem;
     border-radius: 20px;
     cursor: pointer;
+    margin: initial;
 }
